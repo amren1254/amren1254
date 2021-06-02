@@ -1,3 +1,11 @@
+![Amrendra Yadav's Banner](https://raw.githubusercontent.com/amren1254/amren1254/master/Screenahot_2021214-205429.png)
+
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Amrendra</h2>
+
+
+
+
 ### Hi visitor 👋 I am [Amrendra Yadav](https://amren1254.github.io)
 <br />
 
@@ -6,16 +14,18 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/amrendra-yadav/">
+<a href="https://www.linkedin.com/in/amrendrayadav-1254/">
   <img align="left" alt="Amrendra's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
 
 <div><p>My profile overview: </p></div>
 
-![Amrendra's github stats](https://github-readme-stats.vercel.app/api?username=amren1254&show_icons=true)
+![Amrendra's github stats](https://github-readme-stats.vercel.app/api?username=amren1254&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")
 <br />
 <br />
+
+![My Programming Languages]("https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amren1254&layout=compact&langs_count=8&theme=algolia")
 <br />
 <details>
 <summary>
@@ -35,6 +45,13 @@
 🌱 I’m currently learning Go and writing
        <br /> REST services<br />
         gRPC services<br />
+
+
+
+<a href="https://linkedin.com/in/amrendrayadav-1254"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:y.amren00@gmail.com"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/amren125"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Instagram&logoColor=white"/></a>
+
 
 
 📫 How to reach me: 
