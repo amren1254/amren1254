@@ -58,6 +58,12 @@
         **y.amren00@gmail.com**
 
 Thanks
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/amren1254/amren1254/master/pacman.svg?sanitize=true" width="200" height="200">
+	<br>
+
 <!--
 **amren1254/amren1254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
