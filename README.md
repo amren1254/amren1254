@@ -1,12 +1,6 @@
 ![Amrendra Yadav's Banner](https://raw.githubusercontent.com/amren1254/amren1254/master/Screenahot_2021214-205429.png)
 
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Amrendra</h2>
-
-
-
-
-### Hi visitor 👋 I am [Amrendra Yadav](https://amren1254.github.io)
+Hi visitor, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Amrendra Yadav](https://amren1254.github.io)
 <br />
 
 ![Author](https://img.shields.io/badge/author-amren1254-green)
@@ -24,14 +18,11 @@
 ![Amrendra's github stats](https://github-readme-stats.vercel.app/api?username=amren1254&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")
 <br />
 <br />
-
-![My Programming Languages]("https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amren1254&layout=compact&langs_count=8&theme=algolia")
-<br />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amren1254&layout=compact&langs_count=10&theme=algolia" />
 <details>
 <summary>
   Projects I am currently working on
 </summary>
-
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amren1254&repo=go-tutorial)](https://github.com/amren1254/golang-tutorial)
@@ -54,8 +45,9 @@
 
 
 
-📫 How to reach me: 
-        **y.amren00@gmail.com**
+<!--📫 How to reach me: 
+        **y.amren00@gmail.com** 
+-->
 
 Thanks
 
