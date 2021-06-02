@@ -1,4 +1,10 @@
 ### Hi visitor 👋 I am [Amrendra Yadav](https://amren1254.github.io)
+<br />
+
+![Author](https://img.shields.io/badge/author-amren1254-green)
+![Last Commit](https://img.shields.io/github/last-commit/amren1254/amren1254.github.io)
+
+<br />
 
 <a href="https://www.linkedin.com/in/amrendra-yadav/">
   <img align="left" alt="Amrendra's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
