@@ -1,4 +1,4 @@
-![Amrendra Yadav's Banner](https://raw.githubusercontent.com/amren1254/amren1254/master/Screenahot_2021214-205429.png)
+<img src = "https://github.com/amren1254/amren1254/blob/705b3be5091473b7589c4d946c3d6d0245cefc06/Screenshot_20201214-205429.png" width="200px" height="400px"><!--(https://raw.githubusercontent.com/amren1254/amren1254/master/Screenahot_2021214-205429.png)-->
 
 Hi visitor, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Amrendra Yadav](https://amren1254.github.io)
 <br />
