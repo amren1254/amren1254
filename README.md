@@ -17,12 +17,15 @@
 ![commits](https://img.shields.io/github/commit-activity/w/amren1254/amren1254?logo=Amrendra&logoColor=Green&style=plastic)
 <br>
 ### My profile overview:
-I am fascinated by Software Development and believe in writing clean and impactful code. 
-<br>I aspire to excel in software development process and work on developing innovative products that have a positive impact on society.
-<br>I like exploring concepts like algorithm and quantitative analysis through my side projects.
-<br>🌱 I’m currently learning Go and writing
-1. RESTful API's
-2. gRPC
+```
+🌱 I am fascinated by Software Development and believe in writing clean and impactful code. 
+🌱 I aspire to excel in software development process and work on developing innovative products
+🌱 that have a positive impact on society.
+🌱 I like exploring concepts like algorithm and quantitative analysis through my side projects.
+🌱 I’m currently learning Go and writing
+	1. RESTful API's
+	2. gRPC
+```
 ### GitHub Stats
 ![Amrendra's github stats](https://github-readme-stats.vercel.app/api?username=amren1254&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true")
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amren1254&layout=compact&langs_count=8&theme=blue-green" />
@@ -45,14 +48,14 @@ I am fascinated by Software Development and believe in writing clean and impactf
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amren1254&repo=go-tutorial)](https://github.com/amren1254/golang-tutorial)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amren1254&repo=net_banking)](https://github.com/amren1254/net_banking)
 </details>
-<br />
 
+### GitHub Trophies
 [![Amrendra'a github trophy](https://github-profile-trophy.vercel.app/?username=amren1254&row=2)](https://github.com/amren1254/github-profile-trophy)
 <a href="https://linkedin.com/in/amrendrayadav-1254"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:y.amren00@gmail.com"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/amren125"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Instagram&logoColor=white"/></a>
 
-## Thanks
+## Thanks for visiting...
 <div align="center">
 	<br \>
 	<img src="https://raw.githubusercontent.com/amren1254/amren1254/master/pacman.svg?sanitize=true" width="200" height="200">
