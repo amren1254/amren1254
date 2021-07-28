@@ -24,8 +24,8 @@ I am fascinated by Software Development and believe in writing clean and impactf
 1. RESTful API's
 2. gRPC
 ### GitHub Stats
-![Amrendra's github stats](https://github-readme-stats.vercel.app/api?username=amren1254&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amren1254&layout=compact&langs_count=8&theme=algolia" />
+![Amrendra's github stats](https://github-readme-stats.vercel.app/api?username=amren1254&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true")
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amren1254&layout=compact&langs_count=8&theme=blue-green" />
 [![Amrendra's github streak](https://github-readme-streak-stats.herokuapp.com/?user=amren1254&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Sparkline](https://stars.medv.io/amren/badges.svg)](https://stars.medv.io/amren1254/badges)
 
