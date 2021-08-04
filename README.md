@@ -7,6 +7,10 @@
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
 
 -->
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=amren1254/go-gen-otp"/>
+</a>
+
 ## Hi visitor, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Amrendra Yadav](https://amren1254.github.io)
 <br />
 
@@ -53,7 +57,7 @@
 [![Amrendra'a github trophy](https://github-profile-trophy.vercel.app/?username=amren1254&row=2)](https://github.com/amren1254/github-profile-trophy)
 <a href="https://linkedin.com/in/amrendrayadav-1254"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:y.amren00@gmail.com"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/amren125"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/drax125"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Instagram&logoColor=white"/></a>
 
 ## Thanks for visiting...
 <div align="center">
