@@ -7,6 +7,7 @@
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
 
 -->
+
 <img src = "https://contrib.rocks/image?repo=amren1254/amren1254.github.io"/>
 
 ## Hi visitor, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am [Amrendra Yadav](https://amren1254.github.io)
@@ -57,9 +58,10 @@
 <a href="mailto:y.amren00@gmail.com"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/drax125"><img src="https://img.shields.io/badge/-Amrendra Yadav?style=flat&logo=Instagram&logoColor=white"/></a>
 
+[GISTS](https://gist.github.com/amren1254)
+
 ## Thanks for visiting...
 <div align="center">
-	<br \>
 	<img src="https://raw.githubusercontent.com/amren1254/amren1254/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
