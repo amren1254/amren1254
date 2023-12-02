@@ -43,7 +43,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amren1254&repo=go-tutorial)](https://github.com/amren1254/golang-tutorial)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amren1254&repo=net_banking)](https://github.com/amren1254/net_banking)
 
-<summary>
+<!--<summary>
   Latest Gists
 </summary>
 <br />
@@ -51,7 +51,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amren1254&repo=go-tutorial)](https://gist.github.com/amren1254/golang-tutorial)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amren1254&repo=net_banking)](https://gist.github.com/amren1254/net_banking)
-
+-->
 
 ### GitHub Trophies
 [![Amrendra'a github trophy](https://github-profile-trophy.vercel.app/?username=amren1254&row=2)](https://github.com/amren1254/github-profile-trophy)
